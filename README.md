@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently pursuing a B.Tech Artificial intelligence and data science at Panimalar Institute of technology, Chennai
+
 
 <!--
 **dharshu2323/dharshu2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
