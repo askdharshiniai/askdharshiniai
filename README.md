@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github profile!!!
 - 🔭 I’m currently pursuing a B.Tech Artificial intelligence and data science at Panimalar Institute of technology, Chennai
+- Motivated to leran,grow and excel, good in communication and creative.
+  
 
 
 <!--
