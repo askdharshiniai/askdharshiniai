@@ -1,6 +1,9 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fami1708&psig=AOvVaw2Yijk_fLBf9sRpQ1Juwkgc&ust=1721719266841000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjb9J2OuocDFQAAAAAdAAAAABAE" align="center" style="width: 100%" />
+
+
 </div>  
+![githubreadme](https://github.com/user-attachments/assets/0b4e22ba-c0b4-447d-98c6-74c1aef1a8d6)
+
   
 
 I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology, Chennai. A passionate data scientist and ML engineer.👩‍💻  
@@ -67,10 +70,7 @@ I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology,
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   
 </a>
-<a href="https://dharshini-portfolio.netlify.app/" target="_blank">
-<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F190777%2Fadobe-portfolio&psig=AOvVaw3yjznc43YEWrhmUPFSquMb&ust=1721720592820000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCw-JSTuocDFQAAAAAdAAAAABAE/>
-  
-</a>
+
 </div>  
   
 
