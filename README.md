@@ -68,6 +68,7 @@ I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology,
   
 </a>
 <a href="https://dharshini-portfolio.netlify.app/" target="_blank">
+<img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F190777%2Fadobe-portfolio&psig=AOvVaw3yjznc43YEWrhmUPFSquMb&ust=1721720592820000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCw-JSTuocDFQAAAAAdAAAAABAE/>
   
 </a>
 </div>  
@@ -79,17 +80,7 @@ I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology,
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dharshu2323&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
+<br/> 
 
   
 
