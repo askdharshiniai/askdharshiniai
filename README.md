@@ -1,16 +1,19 @@
 <div align="center">
 
-
+![githubreadme](https://github.com/user-attachments/assets/8e051d44-d1a0-471f-b332-d1b170cfe238)
 
 
 </div>  
-I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology, Chennai. A passionate data scientist and ML engineer.👩‍💻  
+### ***<div align="center">I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology, Chennai. A passionate data scientist and ML engineer.👩‍💻[Portfolio](https://dharshini-portfolio.netlify.app/)</div>***  
+  
 
-![githubreadme](https://github.com/user-attachments/assets/8e051d44-d1a0-471f-b332-d1b170cfe238)
+<br/>   
+
+
 
   
 
-<br/>  
+
 
 
 ## My Skill Set  
