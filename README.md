@@ -1,10 +1,10 @@
-<div align="center">
+
 
 
 ![githubreadme](https://github.com/user-attachments/assets/61e408d4-071d-4560-976a-3dc1770b44a7)
 
 
-</div>  
+
 <div align="center">I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology, Chennai. A passionate data scientist and ML engineer.👩‍💻[Portfolio](https://dharshini-portfolio.netlify.app/)</div> 
   
 
