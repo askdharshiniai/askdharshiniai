@@ -1,15 +1,11 @@
 <div align="center">
 
-![githubreadme](https://github.com/user-attachments/assets/8e051d44-d1a0-471f-b332-d1b170cfe238)
 
-![githubreadme](https://github.com/user-attachments/assets/59fb1179-89e3-442e-84e2-061edbb2109e)
+
 
 </div>  
+I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology, Chennai. A passionate data scientist and ML engineer.👩‍💻  ![githubreadme](https://github.com/user-attachments/assets/8e051d44-d1a0-471f-b332-d1b170cfe238)
 
-
-  
-
-I am Dharshini K,👋 a final year student @ Panaimalar Institute of Technology, Chennai. A passionate data scientist and ML engineer.👩‍💻  
   
 
 <br/>  
