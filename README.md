@@ -67,7 +67,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dharshini-karthikeyan-335913229/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/dharshu2323" target="_blank">
+<a href="https://github.com/https://github.com/askdharshiniai" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   
 </a>
@@ -79,7 +79,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dharshu2323&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=askdharshiniai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/> 
 
