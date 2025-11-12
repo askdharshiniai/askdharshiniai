@@ -1,93 +1,111 @@
-<div align="center">I am Dharshini K,👋. A passionate data scientist and AI/ML engineer.👩‍💻[Portfolio](https://dharshini-portfolio.netlify.app/)
-
-
-</div> 
+<div align="center">
   
+# 👋 Hey there, I'm **Dharshini K**  
 
-<br/>   
+🎯 *AI/ML Engineer | Data Scientist | Python Full-Stack Developer*  
+👩‍💻 Passionate about building intelligent, data-driven systems that make real-world impact.  
+🌐 [**Portfolio**](https://dharshini-portfolio.netlify.app/) • [**LinkedIn**](https://www.linkedin.com/in/dharshini-karthikeyan-335913229/) • [**Medium**](https://medium.com/@yourmedium) • [**Dev.to**](https://dev.to/yourdev) • [**Blog**](https://yourbloglink.com)
 
+</div>
 
+---
 
-  
+## 🧠 About Me
+- 💡 I specialize in **Machine Learning, NLP, and RAG-based AI systems**  
+- 🧱 Skilled in both **frontend (React)** and **backend (Node.js, Express)** development  
+- 🩺 Currently building **MediRAG – a Medical Diagnosis Support System using RAG**  
+- ⚡ Love exploring how **LLMs + data pipelines** can transform healthcare and automation  
+- 🎯 Goal: To create AI products that bridge the gap between **data** and **decisions**
 
+---
 
-
-
-## My Skill Set  
+## 🛠 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-
-
-### Web development  
+### 🌐 Web Development  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://reactjs.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.djangoproject.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Data science and analysis,ML  
+### 🤖 Data Science & ML  
 <div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://pytorch.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
+<a href="https://www.tensorflow.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://opencv.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+<a href="https://powerbi.microsoft.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>  
+<a href="https://www.r-project.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-
-
-### Tools  
+### ⚙️ Tools & Databases  
 <div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://git-scm.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.figma.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.mysql.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postman.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman.svg" alt="Postman" height="50" /></a>  
 </div>
 
 </td></tr></table>  
 
-<br/>  
+---
 
+## 🚀 Featured Projects  
 
-## Connect with me  
+### 🩺 [MediRAG – Medical Diagnosis Support System](https://github.com/askdharshiniai/MediRAG)
+> A RAG-powered system for summarizing and answering queries from medical reports using OCR and Hugging Face models.  
+**Stack:** React, Node.js, Express, MongoDB, Pinecone, Hugging Face  
+
+---
+
+### 📊 [Crypto Tracker Dashboard](https://github.com/askdharshiniai/Crypto-Tracker)
+> Streamlit dashboard to track real-time cryptocurrency prices and market trends.  
+**Stack:** Python, Streamlit, Requests, Plotly  
+
+---
+
+### 🎓 [Student Performance Predictor](https://github.com/askdharshiniai/Student-Performance-Regression)
+> Predicts student outcomes using linear regression and visual analytics.  
+**Stack:** Python, Pandas, Matplotlib, Scikit-learn  
+
+---
+
+## 🌐 Connect with Me  
 <div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dharshini-karthikeyan-335913229/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/askdharshiniai" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  
-</a>
 
-</div>  
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharshini%20Karthikeyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dharshini-karthikeyan-335913229/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify)](https://dharshini-portfolio.netlify.app/)  
+[![Medium](https://img.shields.io/badge/Medium-Read-000?style=for-the-badge&logo=medium)](https://medium.com/@yourmedium)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/yourdev)  
+[![Blog](https://img.shields.io/badge/Blog-Insights-orange?style=for-the-badge&logo=hashnode)](https://yourbloglink.com)  
 
-<br/>  
+</div>
 
+---
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=askdharshiniai&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📈 GitHub Stats  
+<div align="center">
 
-<br/> 
+![Dharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=askdharshiniai&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=askdharshiniai&layout=compact&theme=radical&hide_border=true)  
 
-  
+</div>
 
-<br/>  
+---
 
+<div align="center">
 
-<br />
+✨ *“Empowering data with intelligence, and intelligence with empathy.”*  
 
-----
+</div>
