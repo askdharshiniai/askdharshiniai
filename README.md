@@ -120,7 +120,7 @@ Figma<br/>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/askdharshiniai/">
-<img src="https://img.shields.io/badge/LinkedIn-Dharshini%20Karthikeyan-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://dharshini-portfolio.netlify.app/">
