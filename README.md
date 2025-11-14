@@ -22,42 +22,41 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 ## 🛠 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### 🌐 Web Development  
-<div align="center">  
-<a href="https://reactjs.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.djangoproject.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### 🤖 Data Science & ML  
+### 🤖 AI, ML & LLM Development  
 <div align="center">  
 <a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://scikit-learn.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="45" /></a>
 <a href="https://pytorch.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
 <a href="https://www.tensorflow.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://opencv.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" /></a>  
-<a href="https://www.r-project.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+<a href="https://learn.microsoft.com/en-us/semantic-kernel/"><img style="margin: 10px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="LLMs" height="50" /></a>  
+<a href="https://www.pinecone.io/"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/66482109?s=200&v=4" alt="RAG / Pinecone" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
 
-### ⚙️ Tools & Databases  
+### 📊 Data Wrangling & Visualization  
+<div align="center">  
+<a href="https://pandas.pydata.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="45" /></a>
+<a href="https://numpy.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="45" /></a>
+<a href="https://matplotlib.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" /></a>
+<a href="https://seaborn.pydata.org/"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="45" /></a>
+<a href="https://plotly.com/"><img style="margin: 10px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" height="50" /></a>
+<a href="https://streamlit.io/"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+### ⚙️ Tools, Databases & Dev  
 <div align="center">  
 <a href="https://git-scm.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.figma.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.mysql.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.postman.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman.svg" alt="Postman" height="50" /></a>  
+<a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mysql.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.figma.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </td></tr></table>  
+
 
 ---
 
