@@ -6,9 +6,11 @@
 I build intelligent systems that combine **Machine Learning**, **Large Language Models**, and **data-driven engineering** to solve real-world problems.
 </div>
 ---
+
 ## 👩‍💻 About Me  
 I'm a passionate AI & Data Science engineer who enjoys building intelligent systems with Python, Machine Learning, and LLM-based architectures. I love turning raw data into meaningful insights, designing practical ML workflows, and creating user-friendly applications with Streamlit. My focus is on developing efficient RAG systems, improving model reliability, and crafting solutions that make technology more accessible and impactful.
 ---
+
 ## 🚀 What I Build  
 - **AI-powered applications** that automate decision-making  
 - **LLM & RAG systems** that deliver context-aware, reliable responses  
