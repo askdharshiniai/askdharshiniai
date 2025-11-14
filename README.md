@@ -18,7 +18,7 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 - **Scalable backend logic** for ML-driven APIs  
 ---
 
-## 🧠 Skill Set
+## 🧠 Tech Skills
 
 ### **🚀 Languages & Core**
 <table>
@@ -116,6 +116,26 @@ Figma<br/>
 </tr>
 </table>
 
+## 🌐 Connect with Me  
+<div align="center">
+
+<a href="https://www.linkedin.com/in/askdharshiniai/">
+<img src="https://img.shields.io/badge/LinkedIn-Dharshini%20Karthikeyan-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://dharshini-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify" />
+</a>
+
+<a href="https://medium.com/@askdharshiniai">
+<img src="https://img.shields.io/badge/Medium-Read-000?style=for-the-badge&logo=medium" />
+</a>
+
+</div>
+
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 🩺 [MediRAG – Medical Diagnosis Support System](https://github.com/askdharshiniai/MediRAG)
@@ -135,25 +155,6 @@ Figma<br/>
 **Stack:** Python, Pandas, Matplotlib, Scikit-learn  
 
 ---
-
-## 🌐 Connect with Me  
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharshini%20Karthikeyan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dharshini-karthikeyan-335913229/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify)](https://dharshini-portfolio.netlify.app/)  
-[![Medium](https://img.shields.io/badge/Medium-Read-000?style=for-the-badge&logo=medium)](https://medium.com/@yourmedium)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-0A0A0A?style=for-the-badge&logo=dev.to)](https://dev.to/yourdev)  
-[![Blog](https://img.shields.io/badge/Blog-Insights-orange?style=for-the-badge&logo=hashnode)](https://yourbloglink.com)  
-
-</div>
-
----
-
-## 📈 GitHub Stats  
-<div align="center">
-
-![Dharshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=askdharshiniai&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=askdharshiniai&layout=compact&theme=radical&hide_border=true)  
 
 </div>
 
