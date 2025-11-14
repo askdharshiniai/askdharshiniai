@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Dharshini K**  
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Python+Full-Stack+Developer;Machine+Learning+%7C+LLMs+%7C+RAG;Building+Intelligent+%2C+Impactful+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1200&color=40E0D0&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Python+Full-Stack+Developer;Machine+Learning+%7C+LLMs+%7C+RAG;Building+Intelligent+%2C+Impactful+Systems" />
 
 I build intelligent systems that combine **Machine Learning**, **Large Language Models**, and **data-driven engineering** to solve real-world problems.
 
@@ -132,9 +132,5 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%"/>
-
 ✨ *“Empowering data with intelligence, and intelligence with empathy.”*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gray.png" width="100%"/>
 </div>
