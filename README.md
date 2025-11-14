@@ -49,7 +49,6 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 ### ⚙️ Tools, Databases & Dev  
 <div align="center">  
 <a href="https://git-scm.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.postman.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman.svg" alt="Postman" height="50" /></a>  
 <a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.mysql.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.figma.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
