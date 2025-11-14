@@ -1,10 +1,8 @@
 <div align="center">
-  
-# 👋 Hey there, I'm **Dharshini K**  
 
-🎯 *AI/ML Engineer | Data Scientist | Python Full-Stack Developer*  
-👩‍💻 Passionate about building intelligent, data-driven systems that make real-world impact.  
-🌐 [**Portfolio**](https://dharshini-portfolio.netlify.app/) • [**LinkedIn**](https://www.linkedin.com/in/dharshini-karthikeyan-335913229/) • [**Medium**](https://medium.com/@yourmedium) • [**Dev.to**](https://dev.to/yourdev) • [**Blog**](https://yourbloglink.com)
+# 👋 Hi, I'm **Dharshini K**  
+
+### *AI & Data Science Engineer | Python Full-Stack Developer | ML & LLM Enthusiast*
 
 </div>
 
