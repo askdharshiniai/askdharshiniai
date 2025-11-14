@@ -20,42 +20,26 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 
 
 ## 🛠 My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-### 🤖 AI, ML & LLM Development  
-<div align="center">  
-<a href="https://www.python.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://scikit-learn.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="45" /></a>
-<a href="https://pytorch.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://learn.microsoft.com/en-us/semantic-kernel/"><img style="margin: 10px" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="LLMs" height="50" /></a>  
-<a href="https://www.pinecone.io/"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/66482109?s=200&v=4" alt="RAG / Pinecone" height="50" /></a>  
+Languages & Core
+<div align="center">
+Python	Java	SQL
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" height="50"/>	<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="50"/>
 </div>
-
-</td><td valign="top" width="33%">
-
-### 📊 Data Wrangling & Visualization  
-<div align="center">  
-<a href="https://pandas.pydata.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="45" /></a>
-<a href="https://numpy.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="45" /></a>
-<a href="https://matplotlib.org/"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" /></a>
-<a href="https://seaborn.pydata.org/"><img style="margin: 10px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="45" /></a>
-<a href="https://plotly.com/"><img style="margin: 10px" src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" alt="Plotly" height="50" /></a>
-<a href="https://streamlit.io/"><img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" height="50" /></a>
+Machine Learning & AI
+<div align="center">
+TensorFlow	PyTorch	Scikit-Learn	LangChain	Hugging Face	Pinecone (RAG)
+<img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" height="50"/>	<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>	<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="45"/>	<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="45"/>	<img src="https://avatars.githubusercontent.com/u/66482109?s=200&v=4" height="45"/>
 </div>
-
-</td><td valign="top" width="33%">
-
-### ⚙️ Tools, Databases & Dev  
-<div align="center">  
-<a href="https://git-scm.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mongodb.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.figma.com/"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+Data Wrangling & Visualization
+<div align="center">
+Pandas	NumPy	Matplotlib	Seaborn	Plotly	Streamlit
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="45"/>	<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="45"/>	<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50"/>	<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="45"/>	<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="45"/>	<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="45"/>
 </div>
-
-</td></tr></table>  
-
+Tools, Databases & DevOps
+<div align="center">
+Git	GitHub	VS Code	MongoDB	MySQL	Figma
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="45"/>
+</div>
 
 ---
 
