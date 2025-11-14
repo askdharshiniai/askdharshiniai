@@ -3,19 +3,21 @@
 # 👋 Hi, I'm **Dharshini K**  
 
 ### *AI & Data Science Engineer | Python Full-Stack Developer | ML & LLM Enthusiast*
-
+I build intelligent systems that combine **Machine Learning**, **Large Language Models**, and **data-driven engineering** to solve real-world problems.
 </div>
-
+---
+## 👩‍💻 About Me  
+I'm a passionate AI & Data Science engineer who enjoys building intelligent systems with Python, Machine Learning, and LLM-based architectures. I love turning raw data into meaningful insights, designing practical ML workflows, and creating user-friendly applications with Streamlit. My focus is on developing efficient RAG systems, improving model reliability, and crafting solutions that make technology more accessible and impactful.
+---
+## 🚀 What I Build  
+- **AI-powered applications** that automate decision-making  
+- **LLM & RAG systems** that deliver context-aware, reliable responses  
+- **ML pipelines** for data preprocessing, modeling, and evaluation  
+- **End-to-end apps** for dashboards and interactive analytics  
+- **Insightful data visualizations** for business and research use-cases  
+- **Scalable backend logic** for ML-driven APIs  
 ---
 
-## 🧠 About Me
-- 💡 I specialize in **Machine Learning, NLP, and RAG-based AI systems**  
-- 🧱 Skilled in both **frontend (React)** and **backend (Node.js, Express)** development  
-- 🩺 Currently building **MediRAG – a Medical Diagnosis Support System using RAG**  
-- ⚡ Love exploring how **LLMs + data pipelines** can transform healthcare and automation  
-- 🎯 Goal: To create AI products that bridge the gap between **data** and **decisions**
-
----
 
 ## 🛠 My Skill Set  
 <table><tr><td valign="top" width="33%">
