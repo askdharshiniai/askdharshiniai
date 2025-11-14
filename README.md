@@ -18,8 +18,7 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 - **Scalable backend logic** for ML-driven APIs  
 ---
 
-
-## 🛠 My Skill Set  
+## Skill set
 Languages & Core
 <div align="center">
 Python	Java	SQL
@@ -40,8 +39,6 @@ Tools, Databases & DevOps
 Git	GitHub	VS Code	MongoDB	MySQL	Figma
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50"/>	<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="45"/>
 </div>
-
----
 
 ## 🚀 Featured Projects  
 
