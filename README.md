@@ -124,11 +124,11 @@ Figma<br/>
 </a>
 
 <a href="https://dharshini-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-9cf?style=for-the-badge&logo=netlify" />
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@askdharshiniai">
-<img src="https://img.shields.io/badge/Medium-Read-000?style=for-the-badge&logo=medium" />
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </div>
