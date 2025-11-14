@@ -27,15 +27,6 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 Python<br/>
 <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50"/>
 </td>
-<td align="center">
-Java<br/>
-<img src="https://profilinator.rishav.dev/skills-assets/java-original.svg" height="50"/>
-</td>
-<td align="center">
-SQL<br/>
-<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="50"/>
-</td>
-</tr>
 </table>
 
 ---
