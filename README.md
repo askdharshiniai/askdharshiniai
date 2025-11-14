@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Dharshini K**  
+# 👋 Hi, I'm **Dharshini**  
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=120&color=40E0D0&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Engineer;Python+Full-Stack+Developer;Machine+Learning+%7C+LLMs+%7C+RAG;Building+Intelligent+%2C+Impactful+Systems" />
 
