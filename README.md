@@ -64,8 +64,7 @@ Hugging Face<br/>
 <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="45"/>
 </td>
 <td align="center">
-Pinecone (RAG)<br/>
-<img src="https://avatars.githubusercontent.com/u/66482109?s=200&v=4" height="45"/>
+RAG<br/>
 </td>
 </tr>
 </table>
@@ -110,14 +109,6 @@ Streamlit<br/>
 <td align="center">
 Git<br/>
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50"/>
-</td>
-<td align="center">
-GitHub<br/>
-<img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" height="50"/>
-</td>
-<td align="center">
-VS Code<br/>
-<img src="https://profilinator.rishav.dev/skills-assets/vscode-original.svg" height="50"/>
 </td>
 <td align="center">
 MongoDB<br/>
